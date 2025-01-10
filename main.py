@@ -25,9 +25,6 @@ async def on_ready():
 @bot.tree.command(name="confess", description="Send an anonymous confession to the confessions channel!")
 @app_commands.describe(content="Content of the message")
 async def send(interaction: discord.Interaction, content: str):
-    """
-    Sends the user's name and message content to the specified API.
-    """
 
     current_timestamp = datetime.now(timezone.utc).isoformat()
 

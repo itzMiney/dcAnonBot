@@ -1,4 +1,4 @@
-# A simple truly anonymous confessions bot for Discord
+# A simple, lightweight, truly anonymous Confessions Bot for Discord
 
 This bot is just a fun little project to get more familiar with using webhooks, it probably won't be maintained very actively but it is very lightweight and easy to set up, so if you still want to use it feel free to do so!
 The profile picture the Webhook uses is from under the Public Domain sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Anonymous_(group)#/media/File:Anonymous_emblem.svg)
